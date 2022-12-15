@@ -12,6 +12,10 @@
 ### HTML
 ### CSS
 
+### Посмотреть макет можно по ссылке ↓
+
+[«Макет Проекта»](https://www.figma.com/file/Bwjeg4dds5aDpbWi6M8zVV/TETLER-1280p)
+
 ### Посмотреть проект можно по ссылке ↓
 
 [«Сам Проект»](https://github.com/RimYroto/TETLER)
